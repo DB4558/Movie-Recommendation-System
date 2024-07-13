@@ -21,3 +21,13 @@ This project is a Movie Recommendation System that suggests top 5 movies based o
    ```bash
    git clone https://github.com/yourusername/movie-recommendation-system.git
    cd movie-recommendation-system
+
+2.**Open the Jupyter Notebook**
+
+   ```bash
+      jupyter notebook
+
+Open the Drug_Recommendation_System.ipynb notebook and run all cells to train the model and get recommendations.
+
+
+
