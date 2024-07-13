@@ -19,7 +19,7 @@ This project is a Movie Recommendation System that suggests top 5 movies based o
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/DB4558/movie-recommendation-system.git
    cd movie-recommendation-system
 
 2.**Open the Jupyter Notebook**
